@@ -1,0 +1,13 @@
+\babel@toc {polish}{}\relax 
+\contentsline {chapter}{\numberline {1}Cele Zadania}{2}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Implementacja}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Narzędzia}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Zbiór danych}{3}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Augmentacja}{3}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Architektura Modeli}{3}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Trening i Testowanie}{4}{section.2.5}%
+\contentsline {chapter}{\numberline {3}Wyniki Eksperymentów}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}CustomCNN}{6}{section.3.1}%
+\contentsline {section}{\numberline {3.2}MobileNetV2}{7}{section.3.2}%
+\contentsline {section}{\numberline {3.3}VGG16}{9}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Wnioski}{10}{section.3.4}%
